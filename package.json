@@ -1,0 +1,17 @@
+{
+  "name": "thankans-sos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thankans SOS web game with local and online play.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
